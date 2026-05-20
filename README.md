@@ -1,16 +1,13 @@
-<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Vexo%20Template%20Network&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Web+Developer;Builder+of+Tools+and+Systems;Frontend+and+Backend+Focused;Always+Learning+and+Shipping" />
 </p>
 
 ---
 
-<!-- NAVBAR -->
 <p align="center">
   <a href="#about">About</a> •
   <a href="#skills">Skills</a> •
@@ -191,7 +188,6 @@ Web developer focused on building tools, systems, and modular web applications.
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer" />
 </p>
