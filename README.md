@@ -50,6 +50,7 @@ I am a web developer focused on building practical tools, experimental systems, 
 I work mainly with HTML, CSS, JavaScript, and Node.js, focusing on modular design and reusable systems.
 
 My goal is to build fast, clean, and useful developer tools.
+
 ---
 
 ## Skills
