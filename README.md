@@ -51,6 +51,8 @@ I work mainly with HTML, CSS, JavaScript, and Node.js, focusing on modular desig
 
 My goal is to build fast, clean, and useful developer tools.
 
+<sup><sub>Also do other things for fun teehee~</sub></sup>
+
 ---
 
 ## Skills
