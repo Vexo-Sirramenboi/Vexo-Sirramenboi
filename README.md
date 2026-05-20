@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Vexo%20Dev%20Hub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Vexo%20Template%20Netowork&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING -->
@@ -12,41 +12,46 @@
 
 ## About
 
-- I build web tools, utilities, and experimental projects  
-- Focused on HTML, CSS, JavaScript, and Node.js  
-- I prefer simple systems that scale and connect together  
-- Always improving performance and structure  
+- I build web tools, utilities, and experimental projects
+- Focused on HTML, CSS, JavaScript, and Node.js
+- Interested in scalable and modular systems
+- Continuously improving development workflows
 
 ---
 
 ## Featured Projects
 
 ### Template Tools
+
 Web-based tool collection and templates system
 
-- Repository: https://github.com/Vexo-Sirramenboi/Template-Tools
+Repository:  
+https://github.com/Vexo-Sirramenboi/Template-Tools
 
 ---
 
 ### Launcher / Eaglercraft
-Web launcher for Minecraft EalgerCraft
 
-- Repository: https://github.com/Vexo-Sirramenboi/launcher-le-eaglercraft
+Launcher-style environment for managing game builds
 
----
-
-### Vexo Site
-Vexo Site Has A Proxy List
-
-- https://github.com/Vexo-Sirramenboi/Vexo-Site
+Repository:  
+https://github.com/Vexo-Sirramenboi/launcher-le-eaglercraft
 
 ---
 
-### Vexo Texting and Streaming Service
-Vexo Texting and Streaming Service is in demo mode and is curently in production
-- https://github.com/Vexo-Sirramenboi/Vexo-Texting-and-Streaming-Service
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vexo-Sirramenboi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vexo-Sirramenboi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 ---
-## Streak Stats (Reliable Mirror)
+
+## Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vexo-Sirramenboi&theme=tokyonight&hide_border=true" />
@@ -54,7 +59,7 @@ Vexo Texting and Streaming Service is in demo mode and is curently in production
 
 ---
 
-## Tech Stack (Reliable Badges Only)
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -65,7 +70,7 @@ Vexo Texting and Streaming Service is in demo mode and is curently in production
 
 ---
 
-## Profile Views (Stable Alternative)
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vexo-Sirramenboi&style=for-the-badge" />
@@ -74,6 +79,7 @@ Vexo Texting and Streaming Service is in demo mode and is curently in production
 ---
 
 <!-- FOOTER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" />
 </p>
