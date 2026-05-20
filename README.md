@@ -10,34 +10,14 @@
 
 ---
 
-## NAVIGATION TABS
-
+<!-- NAVBAR -->
 <p align="center">
-
-<a href="#about">
-  <img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge&logo=none"/>
-</a>
-
-<a href="#skills">
-  <img src="https://img.shields.io/badge/Skills-38bdf8?style=for-the-badge&logo=none"/>
-</a>
-
-<a href="#projects">
-  <img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=none"/>
-</a>
-
-<a href="#streak">
-  <img src="https://img.shields.io/badge/Streak-38bdf8?style=for-the-badge&logo=none"/>
-</a>
-
-<a href="#tech">
-  <img src="https://img.shields.io/badge/Tech_Stack-0f172a?style=for-the-badge&logo=none"/>
-</a>
-
-<a href="#contact">
-  <img src="https://img.shields.io/badge/Contact-38bdf8?style=for-the-badge&logo=none"/>
-</a>
-
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#streak">Streak</a> •
+  <a href="#tech">Tech Stack</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
@@ -45,43 +25,139 @@
 ## About
 <a id="about"></a>
 
-I am a web developer focused on building practical tools, experimental systems, and scalable web applications.
-
-I work mainly with HTML, CSS, JavaScript, and Node.js, focusing on modular design and reusable systems.
-
-My goal is to build fast, clean, and useful developer tools.
-
-<sup><sub>Also do other things for fun teehee~</sub></sup>
+Web developer focused on building tools, systems, and modular web applications.
 
 ---
 
 ## Skills
 <a id="skills"></a>
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla + Node.js)  
-- Web tool development  
-- UI structure and frontend systems  
-- Backend logic and APIs  
-- Modular architecture  
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- Web tools  
+- System architecture  
+- UI structuring  
 
 ---
 
 ## Projects
 <a id="projects"></a>
 
+<table width="100%">
+
+<tr>
+
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-STABLE-38bdf8?style=for-the-badge"/>
+</p>
+
 ### Template Tools
-A web-based tool system for experiments and reusable utilities.
 
-https://github.com/Vexo-Sirramenboi/Template-Tools  
+**TYPE:** Web Tool System  
+**STACK:** HTML / CSS / JS  
 
----
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/Template-Tools">OPEN</a>
+</p>
 
-### Launcher / Eaglercraft
-A launcher-style system for managing builds and versions.
+</td>
 
-https://github.com/Vexo-Sirramenboi/launcher-le-eaglercraft  
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0f172a?style=for-the-badge"/>
+</p>
+
+### Launcher System
+
+**TYPE:** Build Manager  
+**STACK:** JS / Node.js  
+
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/launcher-le-eaglercraft">OPEN</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-22c55e?style=for-the-badge"/>
+</p>
+
+### Streaming Service
+
+**TYPE:** Realtime System  
+**STACK:** JS / WebSockets  
+
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/Vexo-Texting-and-Streaming-Service">OPEN</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-UTILITY-38bdf8?style=for-the-badge"/>
+</p>
+
+### Proxy List
+
+**TYPE:** Network Utility  
+**STACK:** Data / Web List  
+
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/proxy-list">OPEN</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-PERSONAL-0f172a?style=for-the-badge"/>
+</p>
+
+### Profile Repo
+
+**TYPE:** GitHub Meta  
+**STACK:** Config  
+
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/Vexo-Sirramenboi">OPEN</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-LIVE-38bdf8?style=for-the-badge"/>
+</p>
+
+### Vexo Site
+
+**TYPE:** Portfolio Website  
+**STACK:** HTML / CSS / JS  
+
+<p align="center">
+<a href="https://github.com/Vexo-Sirramenboi/Vexo-Site">OPEN</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -110,8 +186,8 @@ https://github.com/Vexo-Sirramenboi/launcher-le-eaglercraft
 <a id="contact"></a>
 
 - GitHub: https://github.com/Vexo-Sirramenboi  
-- Focus: Web development and tool building  
-- Status: Open to collaboration and experiments  
+- Focus: Web development and systems  
+- Status: Open to collaboration  
 
 ---
 
