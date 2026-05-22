@@ -69,7 +69,7 @@ Web developer focused on building tools, systems, and modular web applications.
 <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0f172a?style=for-the-badge"/>
 </p>
 
-### Launcher System
+### Launcher Le Eaglercraft
 
 **TYPE:** Build Manager  
 **STACK:** JS / Node.js  
