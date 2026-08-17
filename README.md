@@ -159,15 +159,16 @@ Web developer focused on building tools, systems, and modular web applications.
 ---
 
 ## Streak
+
 <a id="streak"></a>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Vexo-Sirramenboi&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Vexo-Sirramenboi&theme=tokyonight"
     alt="Vexo-Sirramenboi GitHub Streak"
-    width="495"
   />
 </p>
+
 
 ---
 
